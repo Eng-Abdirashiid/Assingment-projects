@@ -1,0 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body
+  {
+    background-color: blueviolet;
+  }
+
+.bulb__wrapper {
+  margin: auto 45%;
+  width: 350px;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+}
+
+.bulb__wrapper img {
+  width: 100px;
+  height: 150px;
+}
+.bulb__wrapper > off {
+  width: 130px;
+}
+.all{
+  padding-left: 22px;
+}
